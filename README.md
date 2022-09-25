@@ -1,5 +1,23 @@
+# Spoopy Halloweenn MicroBitty
 
-> Open this page at [https://kylomask.github.io/spoopy-halloweenn-microbitty/](https://kylomask.github.io/spoopy-halloweenn-microbitty/)
+A little project i made for Halloween in 2022!
+
+Requirements:
+- micro:bit v2
+- A big amount of neopixels
+- Alligator Alligator clippies x3
+---
+For big amounts of LEDs:
+- 3x cables where one has small metal stick ant the other dosen't
+- 3x cables where both have a small metal stick
+- Freenove micro:bit kit
+
+I recommend using the project version
+Happeh hawowenn
+
+
+<!--more-->
+
 
 ## Use as Extension 🧩
 
