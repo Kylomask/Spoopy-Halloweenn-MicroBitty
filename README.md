@@ -1,7 +1,7 @@
 
 > Open this page at [https://kylomask.github.io/spoopy-halloweenn-microbitty/](https://kylomask.github.io/spoopy-halloweenn-microbitty/)
 
-## Use as Extension
+## Use as Extension 🧩
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -10,7 +10,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/kylomask/spoopy-halloweenn-microbitty** and import
 
-## Edit this project ![Build status badge](https://github.com/kylomask/spoopy-halloweenn-microbitty/workflows/MakeCode/badge.svg)
+## Edit this project ✏️
 
 To edit this repository in MakeCode.
 
@@ -18,7 +18,7 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/kylomask/spoopy-halloweenn-microbitty** and click import
 
-## Blocks preview
+## Blocks preview 🏛️
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
