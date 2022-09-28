@@ -2,6 +2,8 @@ control.onEvent(EventBusSource.MICROBIT_ID_BUTTON_A, EventBusValue.MICROBIT_BUTT
     NINGNONG()
 })
 function NINGNONG () {
+    radio.setGroup(69)
+    radio.sendNumber(69)
     serial.writeLine("Time between each ring: " + (control.millis() - time_action) / 1000 + "s")
     time_action = control.millis()
     music.playSoundEffect(music.builtinSoundEffect(soundExpression.hello), SoundExpressionPlayMode.InBackground)
